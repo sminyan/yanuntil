@@ -7,7 +7,7 @@ edition = "2021"
 description = "简单的例子"
 keywords = ["untils"]
 license = "MIT"
-documentation = "https://doc.rs/yanuntil"
+documentation = "https://docs.rs/yanuntil"
 # 添加仓库链接
 repository = "https://github.com/vonneumann/yanuntil"
 
