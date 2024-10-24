@@ -6,6 +6,12 @@
 pub fn add_one(x:i32)->i32{
     x+1
 }
+/*
+ *sum函数
+ */
+pub fn sum(a:i32,b:i32)->i32{
+    return a+b;
+}
 
 #[macro_export]
 macro_rules! my_print {
