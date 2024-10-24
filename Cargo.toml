@@ -1,10 +1,10 @@
 [package]
 name = "yanuntil"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["yan"]
 edition = "2021"
 
-description = "简单的例子"
+description = "easy test"
 keywords = ["untils"]
 license = "MIT"
 documentation = "https://docs.rs/yanuntil"
